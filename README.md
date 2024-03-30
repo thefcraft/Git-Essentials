@@ -18,7 +18,7 @@ This course is divided into several modules, each covering essential aspects of 
   - Initializing a Git repository
   - Basic configuration settings
   - Creating and managing commits
-- [Module 3: Basic Git Commands](#Module 3: Basic Git Commands)
+- [Module 3: Basic Git Commands](#module-3-basic-git-commands)
   - Adding and removing files
   - Viewing the commit history
   - Undoing changes with reset and revert
