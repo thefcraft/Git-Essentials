@@ -10,11 +10,11 @@ If you're new to Git, start with our beginner-friendly tutorials to get up and r
 
 This course is divided into several modules, each covering essential aspects of Git:
 
-- [Module 1: Introduction to Version Control](#Module 1: Introduction to Version Control)
+- [Module 1: Introduction to Version Control](#module-1-introduction-to-version-control)
   - Understanding the need for version control
   - Overview of Git and its advantages
   - Installing Git on your system
-- [Module 2: Getting Started with Git](#Module 2: Getting Started with Git)
+- [Module 2: Getting Started with Git](#module-2-getting-started-with-git)
   - Initializing a Git repository
   - Basic configuration settings
   - Creating and managing commits
@@ -22,27 +22,27 @@ This course is divided into several modules, each covering essential aspects of 
   - Adding and removing files
   - Viewing the commit history
   - Undoing changes with reset and revert
-- [Module 4: Branching and Merging](#Module 4: Branching and Merging)
+- [Module 4: Branching and Merging](#module-4-branching-and-merging)
   - Creating and managing branches
   - Merging branches
   - Resolving merge conflicts
-- [Module 5: Advanced Git Operations](#Module 5: Advanced Git Operations)
+- [Module 5: Advanced Git Operations](#module-5-advanced-git-operations)
   - Rewriting history with rebase
   - Cherry-picking commits
   - Working with submodules and subtrees
-- [Module 6: Collaborative Workflows](#Module 6: Collaborative Workflows)
+- [Module 6: Collaborative Workflows](#module-6-collaborative-workflows)
   - Introduction to remote repositories
   - Cloning repositories
   - Collaborating with others using pull requests
-- [Module 7: Git Best Practices](#Module 7: Git Best Practices)
+- [Module 7: Git Best Practices](#module-7-git-best-practices)
   - Structuring your repository
   - Writing meaningful commit messages
   - Using Git aliases for efficiency
-- [Module 8: Git Tips and Tricks](#Module 8: Git Tips and Tricks)
+- [Module 8: Git Tips and Tricks](#module-8-git-tips-and-tricks)
   - Git stash for temporary changes
   - Interactive rebase for fine-tuning commits
   - Customizing Git with configuration options
-- [Module 9: Troubleshooting and Advanced Techniques](#Module 9: Troubleshooting and Advanced Techniques)
+- [Module 9: Troubleshooting and Advanced Techniques](#module-9-troubleshooting-and-advanced-techniques)
   - Diagnosing common Git problems
   - Using Git bisect for debugging
   - Applying advanced Git techniques for complex scenarios
