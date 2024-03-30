@@ -4,9 +4,7 @@ Welcome to the Git Essentials course! This comprehensive guide will take you on 
 
 ## Getting Started
 
-If you're new to Git, start with our beginner-friendly tutorials to get up and running in no time. Learn how to install Git, configure your settings, and initialize a repository.
-
-Certainly! Here's the course overview with improved UI/UX:
+If you're new to Git, start with our beginner-friendly tutorials to get up and running in no time. Learn how to [install Git](#installing-git-on-your-system), configure your settings, and initialize a repository.
 
 ## Course Overview
 
