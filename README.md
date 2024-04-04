@@ -11,7 +11,9 @@ If you're new to Git, start with our beginner-friendly tutorials to get up and r
 Welcome to the Git Essentials course! This comprehensive guide will take you on a journey from the fundamental concepts of version control to mastering advanced Git workflows. Each module is carefully crafted to provide you with practical knowledge and hands-on experience in using Git effectively.
 
 ### Modules
-
+<details open>
+  <summary>Click Me</summary>
+  
 - [Module 1: Introduction to Version Control](#module-1-introduction-to-version-control)
   - Understanding the need for version control
   - Overview of Git and its advantages
@@ -56,7 +58,7 @@ Welcome to the Git Essentials course! This comprehensive guide will take you on 
   - Diagnosing common Git problems
   - Using Git bisect for debugging
   - Applying advanced Git techniques for complex scenarios
-
+</details>
 Each module builds upon the previous one, providing you with a structured learning path to become proficient in Git. Let's get started!
 
 ## Module 1: Introduction to Version Control
